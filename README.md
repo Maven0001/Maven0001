@@ -9,7 +9,6 @@ I am a **Frontend Engineer** and **UI/UX Designer** based in Nigeria.
 - **Design:** Figma, Responsive Web Design
 - **Tools:** Git, Cursor (AI-native development), Vercel
 
----
 
 ### 🛠️ What I’m Working On
 
@@ -18,18 +17,9 @@ I am a **Frontend Engineer** and **UI/UX Designer** based in Nigeria.
 - ♿ **Accessibility First:** I am currently refining a series of design patterns specifically optimized for senior citizens and low-vision users.
 
 
----
 
 
-## 🧠 Top Skills
 
-<p align="center">
-  HTML • CSS • JavaScript • TypeScript • React • Next.js • TailwindCSS  
-  <br/>
-  Git • GitHub • Figma 
-</p>
-
----
 
 ### 📫 Let's Connect
 
