@@ -17,8 +17,8 @@ I am a **Frontend Engineer** and **UI/UX Designer** based in Nigeria.
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maven0001&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maven0001&layout=compact&theme=radical)
+[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maven0001&show_icons=true&theme=radical)
+[My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maven0001&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
 
